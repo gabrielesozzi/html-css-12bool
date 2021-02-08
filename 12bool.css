@@ -72,3 +72,54 @@
 .col-12 {
   width: 100%;
 }
+
+/* Offset */
+/* Li aggiungo perché trattati a lezione anche se non usati nell'esercizio. */
+
+.offset_1 {
+  margin-left: calc(100%/12);
+}
+
+.offset_2 {
+ margin-left: calc(100%/12 *2);
+}
+
+.offset_3 {
+  margin-left: calc(100%/12 *3);
+}
+
+.offset_4 {
+  margin-left: calc(100%/12 *4);
+}
+
+.offset_5 {
+  margin-left: calc(100%/12 *5);
+}
+
+.offset_6 {
+  margin-left: 50%
+}
+
+.offset_7 {
+  margin-left: calc(100%/12 *7);
+}
+
+.offset_8 {
+  margin-left: calc(100%/12 *8);
+}
+
+.offset_9 {
+  margin-left: 75%;
+}
+
+.offset_10 {
+  margin-left: calc(100%/12 *10);
+}
+
+.offset_11 {
+  margin-left: calc(100%/12 *11);
+}
+
+.offset_12 {
+  margin-left: 100%;
+}
