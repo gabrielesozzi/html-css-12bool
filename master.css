@@ -1,9 +1,9 @@
 [class*="col-"] {
  background-color: #FFC0CB;
- height: 100px;
+ height: 150px;
  border: 1px solid black;
  text-align: center;
- line-height: 100px;
+ line-height: 150px;
 }
 
 * {
@@ -12,9 +12,19 @@
   box-sizing: border-box;
 }
 
+
+
+.container_nested {
+  /* padding: 15px 5px; */
+  /* border: none; */
+}
+
 .nested {
-  height: 80px;
+  height: 120px;
   background-color: #F07F80;
-  border: 1px solid #FFFFFF;
-  margin: 10px 0;
+  border: none;
+}
+
+.bottom {
+  padding: 15px 5px;
 }
